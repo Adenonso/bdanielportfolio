@@ -42,7 +42,7 @@ export default function Home() {
             src="/images/bdaniel.jpg"
             alt="Portrait of Daniel Balogun"
             tone="from-[#1d1d1d] to-ink"
-            className="absolute inset-0 [mask-image:linear-gradient(to_left,black_75%,black_25%,transparent)]"
+            className="absolute inset-0 [mask-image:linear-gradient(to_left,black_75%,black_25%,transparent,black_25%)]"
             imgClassName="object-cover object-top"
           />
           <p className="absolute right-2 top-10 -rotate-[8deg] font-hand text-3xl leading-[1.05] text-accent sm:right-6 sm:text-4xl">
