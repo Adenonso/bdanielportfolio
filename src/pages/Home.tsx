@@ -39,7 +39,7 @@ export default function Home() {
 
         <div className="relative h-[380px] sm:h-[480px] lg:h-[560px]">
           <Media
-            src="/imgs/bdaniel.jpg"
+            src="/images/bdaniel.jpg"
             alt="Portrait of Daniel Balogun"
             tone="from-[#1d1d1d] to-ink"
             className="absolute inset-0 [mask-image:linear-gradient(to_left,black_75%,transparent)]"
